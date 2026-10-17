@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/contracts/contracts-dependencies-cf7739a19d",
+    "dependabot/npm_and_yarn/backend/backend-dependencies-bc68bebc1f",
+    "dependabot/npm_and_yarn/frontend/frontend-dependencies-cc0c3da64f",
+    "dependabot/npm_and_yarn/root-dependencies-2aeaab81f7",
+    "fix/2091-email-delivery-safe-recovery",
+    "fix/2097-webhook-delivery-retry-state",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/contracts/contracts-dependencies-cf7739a19d": "main",
+    "dependabot/npm_and_yarn/backend/backend-dependencies-bc68bebc1f": "main",
+    "dependabot/npm_and_yarn/frontend/frontend-dependencies-cc0c3da64f": "main",
+    "dependabot/npm_and_yarn/root-dependencies-2aeaab81f7": "main",
+    "fix/2091-email-delivery-safe-recovery": "main",
+    "fix/2097-webhook-delivery-retry-state": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/contracts/contracts-dependencies-cf7739a19d",
+    "dependabot/npm_and_yarn/backend/backend-dependencies-bc68bebc1f",
+    "dependabot/npm_and_yarn/frontend/frontend-dependencies-cc0c3da64f",
+    "dependabot/npm_and_yarn/root-dependencies-2aeaab81f7",
+    "fix/2091-email-delivery-safe-recovery",
+    "fix/2097-webhook-delivery-retry-state",
+    "origin"
+  ]
+}
